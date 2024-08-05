@@ -1,0 +1,15 @@
+{
+  "name": "web3practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findingPrefixPlusNonce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
